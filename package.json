@@ -10,6 +10,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "20.12.2"
+  },
   "dependencies": {
     "@types/express": "github:types/express",
     "express": "^4.19.2"
