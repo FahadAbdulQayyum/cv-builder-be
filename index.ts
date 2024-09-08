@@ -67,3 +67,5 @@ function readData(): Promise<any>{
 // saveData("Hello")
 
 readData()
+
+module.exports = app
